@@ -1,0 +1,10 @@
+[
+  {
+    "pmkid_file": "hs/pmkid_testlab_6C-99-89-AD-CD-60_2019-10-29T10-03-07.16800", 
+    "bssid": "6C:99:89:AD:CD:60", 
+    "essid": "testlab", 
+    "key": "wireless", 
+    "date": 1572318237, 
+    "type": "PMKID"
+  }
+]
